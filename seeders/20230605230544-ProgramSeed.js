@@ -30,6 +30,32 @@ module.exports = {
           waktu: "Jumat, 09 Juni 2023 10:00 - 13:00 WIB",
           link: "https://meet.google.com/567891234",
         },
+        {
+          id: "program-GLqk",
+          judul: "Program Konservasi Sumber Daya Alam",
+          isi: "Program ini bertujuan untuk melindungi sumber daya alam seperti hutan, sungai, dan lahan basah. Program ini melibatkan kegiatan penanaman kembali pohon, pemulihan habitat alami, pemantauan keanekaragaman hayati, dan pengaturan penggunaan sumber daya alam yang berkelanjutan.",
+          gambar:
+            "https://i.ibb.co/fxpLHkm/Program-Konservasi-Sumber-Daya-Alam.jpg",
+          waktu: "senin, 26 Juni 2023 10:00 - 13:00 WIB",
+          link: "https://meet.google.com/987654qe21",
+        },
+        {
+          id: "program-Y12B",
+          judul: "Program Pengurangan Emisi Gas Rumah Kaca",
+          isi: "Program ini bertujuan untuk mengurangi emisi gas rumah kaca yang berkontribusi terhadap perubahan iklim. Program ini dapat mencakup penggunaan energi terbarukan, peningkatan efisiensi energi, pengurangan penggunaan kendaraan bermotor, dan promosi transportasi ramah lingkungan seperti bersepeda atau menggunakan transportasi umum.\n",
+          gambar:
+            "https://i.ibb.co/6Z8qXLV/Program-Pengurangan-Emisi-Gas-Rumah-Kaca.jpg",
+          waktu: "jumat, 23 Juni 2023 08:00 - 11:00 WIB",
+          link: "https://meet.google.com/9823vfrs23",
+        },
+        {
+          id: "program-eYAK",
+          judul: "Program Penghijauan Kota",
+          isi: "Program ini bertujuan untuk meningkatkan kualitas udara, mengurangi suhu permukaan, dan meningkatkan estetika kota melalui penanaman pohon dan penataan ruang hijau. Program ini juga dapat melibatkan pendirian taman-taman kota, taman komunitas, dan pelestarian ruang terbuka hijau.",
+          gambar: "https://i.ibb.co/wcQrNHP/Program-Penghijauan-Kota.jpg",
+          waktu: "Rabu, 29 Juni 2023 09:00 - 12:00 WIB",
+          link: "https://meet.google.com/9876eqsae43",
+        },
       ],
       {}
     );

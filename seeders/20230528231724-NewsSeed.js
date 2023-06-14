@@ -32,6 +32,31 @@ module.exports = {
           gambar: "https://i.ibb.co/P9Q1Ypp/pencemaran-laut.jpg",
           waktu: dayjs().locale("id").format("DD-MMMM-YYYY HH:mm:ss"),
         },
+        {
+          id: "news-iW6T",
+          judul:
+            "Pemerintah Kota Menerapkan Program Tanam Pohon Massal untuk Mengatasi Pemanasan Global",
+          isi: 'Pemerintah Kota XYZ telah meluncurkan program tanam pohon massal yang bertujuan untuk mengatasi pemanasan global dan meningkatkan kualitas udara di wilayah tersebut. Program ini melibatkan partisipasi aktif dari warga dan komunitas setempat dalam upaya menjaga keberlanjutan lingkungan.\n\nDalam program ini, pemerintah setempat menyediakan bibit pohon kepada masyarakat secara gratis dan memberikan dukungan teknis untuk penanaman yang efektif. Warga didorong untuk menanam pohon di pekarangan rumah, taman, dan area publik yang tersedia.\n\nSelain memberikan manfaat lingkungan seperti penyerapan karbon dan penghasilan oksigen, pohon-pohon yang ditanam juga berperan dalam mencegah erosi tanah, meningkatkan kualitas air, dan memberikan habitat bagi keanekaragaman hayati lokal.\n\nPemerintah Kota XYZ juga menyelenggarakan acara kampanye dan pelatihan untuk meningkatkan kesadaran masyarakat tentang manfaat penting dari penanaman pohon. Mereka berharap program ini dapat menginspirasi masyarakat untuk mengambil tindakan nyata dalam menjaga lingkungan di sekitar mereka.\n\nWalikota XYZ, dalam pernyataan resminya, menyatakan, "Program tanam pohon massal ini merupakan langkah konkret dalam menghadapi pemanasan global dan menjaga kualitas udara yang sehat. Kami mengajak seluruh warga untuk bergabung dalam upaya ini dan berperan dalam menjaga keberlanjutan kota kita."\n\nProgram tanam pohon massal ini mencerminkan upaya pemerintah kota dalam memobilisasi masyarakat untuk ikut serta dalam menjaga lingkungan dan menghadapi perubahan iklim. Dengan melibatkan warga secara aktif, program ini tidak hanya memberikan manfaat lingkungan, tetapi juga membangun kesadaran kolektif akan pentingnya menjaga keberlanjutan lingkungan hidup.',
+          gambar: "https://i.ibb.co/9wLfRh0/planting.jpg",
+          waktu: dayjs().locale("id").format("DD-MMMM-YYYY HH:mm:ss"),
+        },
+        {
+          id: "news-w_wT",
+          judul:
+            "Konservasi Laut: Organisasi Lingkungan Memperluas Wilayah Perlindungan di Terumbu Karang Terbesar Dunia",
+          isi: 'Sebuah organisasi lingkungan terkemuka telah berhasil memperluas wilayah perlindungan di terumbu karang terbesar dunia, yang merupakan rumah bagi keanekaragaman hayati laut yang luar biasa. Langkah ini diambil untuk memastikan keberlanjutan terumbu karang dan melindungi ekosistemnya dari ancaman seperti perubahan iklim dan kegiatan manusia.\n\nOrganisasi ini bekerja sama dengan pemerintah lokal dan komunitas nelayan untuk memperkuat langkah-langkah perlindungan dan membangun kesadaran akan pentingnya menjaga kelestarian terumbu karang. Melalui konsultasi dan kolaborasi, mereka berhasil menetapkan zona perlindungan baru yang mencakup area yang sebelumnya tidak terlindungi.\n\nWilayah perlindungan baru ini melarang praktik-praktik yang merusak, seperti penangkapan ikan yang tidak berkelanjutan, penggunaan bahan kimia berbahaya, dan kerusakan fisik terhadap terumbu karang. Selain itu, organisasi ini juga memberikan pelatihan kepada nelayan setempat tentang praktik penangkapan ikan yang bertanggung jawab dan berkelanjutan.\n\nDalam sebuah pernyataan, direktur organisasi tersebut mengatakan, "Konservasi terumbu karang merupakan tanggung jawab bersama kita. Dengan memperluas wilayah perlindungan, kami berharap dapat menjaga keanekaragaman hayati laut dan mendukung mata pencaharian berkelanjutan masyarakat lokal."\n\nLangkah ini menunjukkan betapa pentingnya upaya perlindungan dan pelestarian terumbu karang di tengah ancaman perubahan iklim dan aktivitas manusia yang merusak. Melalui kerjasama antara organisasi lingkungan, pemerintah, dan komunitas lokal, kita dapat memastikan bahwa keindahan dan keberlanjutan terumbu karang terjaga untuk generasi mendatang.',
+          gambar: "https://i.ibb.co/wcrSCyg/konservasi-laut.jpg",
+          waktu: dayjs().locale("id").format("DD-MMMM-YYYY HH:mm:ss"),
+        },
+        {
+          id: "news-z3zS",
+          judul:
+            "Inovasi Ramah Lingkungan: Startup Membuat Baterai Daur Ulang dari Limbah Elektronik",
+          isi: 'Sebuah startup inovatif telah mengembangkan teknologi baru yang menggunakan limbah elektronik untuk membuat baterai daur ulang. Proyek ini bertujuan untuk mengatasi dua masalah sekaligus, yaitu pengelolaan limbah elektronik yang berkelanjutan dan kebutuhan akan baterai yang ramah lingkungan.\n\nStartup ini, yang dikenal dengan nama "EcoBatt", menggunakan limbah elektronik yang biasanya menjadi sumber polusi lingkungan dan dampak negatif terhadap kesehatan manusia. Mereka mengolah limbah tersebut menjadi bahan baku untuk produksi baterai daur ulang yang aman dan efisien.\n\nTeknologi EcoBatt tidak hanya mengurangi volume limbah elektronik yang dikirim ke tempat pembuangan akhir, tetapi juga mengurangi ketergantungan pada bahan baku baru yang diekstraksi dari lingkungan. Dalam uji coba awal, baterai daur ulang yang dihasilkan oleh startup ini menunjukkan kinerja yang sebanding dengan baterai konvensional.\n\nCEO EcoBatt, Jane Thompson, menjelaskan, "Kami berkomitmen untuk memperbaiki cara kita memandang limbah elektronik dan mengubahnya menjadi sumber energi yang berkelanjutan. Dengan menggunakan teknologi kami, kami dapat meminimalkan dampak negatif limbah elektronik dan memberikan solusi ramah lingkungan dalam industri baterai."\n\nBerita ini memberikan informasi tentang inovasi terkini dalam lingkup teknologi yang berdampak positif terhadap lingkungan. Hal ini juga menyoroti upaya untuk mengubah persepsi dan praktik dalam pengelolaan limbah elektronik, sambil mendorong adopsi teknologi ramah lingkungan di sektor industri yang penting.',
+          gambar:
+            "https://i.ibb.co/mNpfZXg/Startup-Membuat-Baterai-Daur-Ulang-dari-Limbah-Elektronik.jpg",
+          waktu: dayjs().locale("id").format("DD-MMMM-YYYY HH:mm:ss"),
+        },
       ],
       {}
     );
